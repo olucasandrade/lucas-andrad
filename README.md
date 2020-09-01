@@ -22,18 +22,18 @@ Hi, i'm Lucas, a software development student engaged in using technologies of a
 
 ### My activity
 
-<!-- Card stats project: https://github.com/anuraghazra/github-readme-statshttps://github.com/anuraghazra/github-readme-stats -->
+<!-- Card stats project: https://github.com/anuraghazra/github-readme-statshttps://github.com/anuraghazra/github-readme-stats  -->
 [![Lucas github stats](https://github-readme-stats.vercel.app/api?username=lucas-andrad)](https://github.com/lucas-andrad/github-readme-stats)
 
 ### To see more, find me elsewhere:
 
 <!-- Badges creator: https://github.com/MikeCodesDotNET/ColoredBadges -->
-<a href="http://google.com.au/"> ![Medium](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/blogs/medium.svg) </a>
+<a target="_blank" href="https://medium.com/@lafdesouza2002"> ![Medium](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/blogs/medium.svg) </a>
 
-<a href="https://www.linkedin.com/in/lucasandradesouza/">![Linkedin](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg)
+<a target="_blank" href="https://www.linkedin.com/in/lucasandradesouza/">![Linkedin](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg)
  </a>
 
- <a href="https://stackoverflow.com/users/14160547/lucas-andrade"> ![StackOverflow](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/stackoverflow.svg)
+ <a target="_blank" href="https://stackoverflow.com/users/14160547/lucas-andrade"> ![StackOverflow](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/stackoverflow.svg)
  </a>
 
 
