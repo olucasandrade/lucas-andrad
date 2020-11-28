@@ -28,7 +28,7 @@ Hi, i'm Lucas, a software development student engaged in using technologies of a
 ### To see more, find me elsewhere:
 
 <!-- Badges creator: https://github.com/MikeCodesDotNET/ColoredBadges -->
-<a target="_blank" href="https://medium.com/@lafdesouza2002"> ![Medium](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/blogs/medium.svg) </a>
+<a target="_blank" href="https://andradelucas.medium.com/"> ![Medium](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/blogs/medium.svg) </a>
 
 <a target="_blank" href="https://www.linkedin.com/in/lucasandradesouza/">![Linkedin](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg)
  </a>
