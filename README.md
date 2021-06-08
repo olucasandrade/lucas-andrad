@@ -8,8 +8,6 @@ Hi, i'm Lucas, a software development student engaged in using technologies of a
 <!-- Badges creator: https://github.com/MikeCodesDotNET/ColoredBadges -->
 ![Language1](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg)
 ![Language2](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg)
-![Language3](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg)
-![Language4](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg)
 
 
 ### Which frameworks i study
@@ -18,6 +16,7 @@ Hi, i'm Lucas, a software development student engaged in using technologies of a
 ![Framework1](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/jquery.svg)
 ![Framework2](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/nodejs.svg)
 ![Framework3](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react.svg)
+![Framework4](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/vue.svg)
 
 
 ### My activity
