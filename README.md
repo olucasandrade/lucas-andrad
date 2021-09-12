@@ -32,8 +32,4 @@ Hi, i'm Lucas, a software development student engaged in using technologies of a
 <a target="_blank" href="https://www.linkedin.com/in/lucasandradesouza/">![Linkedin](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg)
  </a>
 
- <a target="_blank" href="https://stackoverflow.com/users/14160547/lucas-andrade"> ![StackOverflow](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/stackoverflow.svg)
- </a>
-
-
 
